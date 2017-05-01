@@ -3,12 +3,11 @@ JPEG-like image compressor by Yansen Sheng
 
 jsheng@brandeis.edu
 
-                                                  May 1st, 2017
+May 1st, 2017
 
 ===============================================================
 
 This program is finished independently by Yansen Sheng, but with 
-
 discussion with Ziyu Qiu and Ziqi Wang.
 
 ===============================================================
