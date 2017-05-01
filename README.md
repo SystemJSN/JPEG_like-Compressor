@@ -1,5 +1,4 @@
 # JPEG_like-Compressor
-A JPEG_like Image Compressor
 JPEG-like image compressor by Yansen Sheng
 jsheng@brandeis.edu
                                                   May 1st, 2017
