@@ -1,14 +1,18 @@
 # JPEG_like-Compressor
 JPEG-like image compressor by Yansen Sheng
+
 jsheng@brandeis.edu
+
                                                   May 1st, 2017
 
 ===============================================================
 
-This program is finished independently by Yansen Sheng, but with
+This program is finished independently by Yansen Sheng, but with 
+
 discussion with Ziyu Qiu and Ziqi Wang.
 
 ===============================================================
+
 How to use the compressor?
 
 - Simply run compressor.py in terminal. The program is written
@@ -40,6 +44,7 @@ How to use the compressor?
   stage.
 
 ===============================================================
+
 What's specific about this compressor?
 
 - This compressor uses JPEG-like encoding algorithm to encode an
