@@ -22,7 +22,7 @@ How to use the compressor?
   to quit the program.
 
 - When encoding, make sure to put the image you want to compress
-  in the same folder as the program is in. The program only supports
+  in the same folder as the program is in. The program only supports greyscale
   .bmp file at current stage. The program will prompt you to enter
   the name of the image file (with suffix). To encode, the program
   will prompt you to choose either to select default block size or
